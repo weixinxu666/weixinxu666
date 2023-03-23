@@ -8,6 +8,7 @@
 
 <a href="https://scholar.google.com/citations?user=ibbcH1QAAAAJ&hl=EN&oi=ao"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a> 
 <a href="https://weixinxu666.github.io/"><img src="https://img.shields.io/badge/Home%20Page-0077B5?style=for-the-badge&logo=homepage&logoColor=white"></a> 
+<a href="https://weixinxu666.github.io/files/XinxuWei_CV.pdf/"><img src="https://img.shields.io/badge/C%20V-0077B5?style=for-the-badge&logo=vitta&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/xinxu-wei-425442239/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 
