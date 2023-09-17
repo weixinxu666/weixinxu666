@@ -1,9 +1,8 @@
 ### Hi there, I'm Xinxu Wei! 👋
 
 <!-- - 🔭 I’m interested in Deep Learning, Medical Image Analysis, Computer Vision, and Neural Network. -->
-- 🌱 I’m an incoming Ph.D. student in ECE at [Lehigh University](https://www1.lehigh.edu/), supervised by [Dr. Yu Zhang](https://wordpress.lehigh.edu/yuzi20/people/).
+- 🌱 I’m a Ph.D. student in ECE at [Lehigh University](https://www1.lehigh.edu/)(https://wordpress.lehigh.edu/yuzi20/people/).
 - 👯 I’m looking to collaborate on publishing academic papers and conducting projects.
-- 📫 You can reach me at [xiw523@lehigh.edu](xiw523@lehigh.edu) or [xinxu.wei@mail.mcgill.ca](xinxu.wei@mail.mcgill.ca).
 
 
 <a href="https://scholar.google.com/citations?user=ibbcH1QAAAAJ&hl=EN&oi=ao"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a> 
