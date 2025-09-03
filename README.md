@@ -1,7 +1,7 @@
 ### Hi there, I'm Xinxu Wei! 👋
 
-<!-- - 🔭 I’m interested in Deep Learning, Medical Image Analysis, Computer Vision, and Neural Network. -->
-- 🌱 I’m a Ph.D. student in ECE at [Lehigh University](https://www1.lehigh.edu/).
+<!-- - 🔭 I’m interested in Machine Learning and Deep Learning. -->
+- 🌱 I’m a Ph.D. student at [Lehigh University](https://www1.lehigh.edu/).
 - 👯 I’m looking to collaborate on publishing academic papers and conducting projects.
 
 
