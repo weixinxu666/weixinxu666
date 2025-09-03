@@ -2,7 +2,6 @@
 
 <!-- - 🔭 I’m interested in Machine Learning and Deep Learning. -->
 - 🌱 I’m a Ph.D. student at [Lehigh University](https://www1.lehigh.edu/).
-- 👯 I’m looking to collaborate on publishing academic papers and conducting projects.
 
 
 <a href="https://scholar.google.com/citations?user=ibbcH1QAAAAJ&hl=EN&oi=ao"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a> 
